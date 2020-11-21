@@ -16,3 +16,5 @@ Sharing is yet to be updated.
 see: https://dropbox.github.io/dropbox-api-v2-explorer/
 
 see: https://www.dropbox.com/developers/documentation/http/documentation
+
+temp: https://dropboxapi2livecode.readthedocs.io/en/latest/
